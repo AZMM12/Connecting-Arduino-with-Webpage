@@ -25,7 +25,6 @@ Controlling Servo motor by web page using html and javascript.
   └── ReadMe.adoc      => this file
   └── Servo_Web.ino      => Arduino Code
   └── Servo_Web.html      => html & javascript code
-  └── Servo_Web.html      => html & javascript code
 ....
 
 === Contributing
